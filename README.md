@@ -1,2 +1,2 @@
 # Bash-practise
-This is my first Bash program learning how to use Bash
+Using Bash, shell in order to build a simple tarot reader
